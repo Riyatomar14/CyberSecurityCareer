@@ -12,3 +12,9 @@ learn about basic like-
 
 3. about web - http request work , http responses , request headers and different methods that http request is using and all sort of thing around that.
 
+4. application of skill you have
+
+5. improve your skills and build on your previous skills
+
+6. search for jobs and internships ....
+
