@@ -18,9 +18,9 @@ learn about basic like-
 
 6. search for jobs and internships ....
 
-book follow- the web application hackers handbook  
+book follow-`1. the web application hackers handbook  
 
-             real world big hunting
+2. real world big hunting
 
 
 port Swigger lab- web security concept and practice more 
