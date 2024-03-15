@@ -18,3 +18,13 @@ learn about basic like-
 
 6. search for jobs and internships ....
 
+book follow- the web application hackers handbook  
+
+             real world big hunting
+
+
+port Swigger lab- web security concept and practice more 
+
+hack the box - website give you ip address to hack it and practise(hack basically)
+
+paper - oscp...or ejp2
