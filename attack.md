@@ -29,7 +29,7 @@ As outlined by David J Bianco himself, the Pyramid indicators are-
 ### 5. Host Artifacts: Observables caused by adversary activities on one or more of your hosts, such as registry keys or values known to be created by specific pieces of malware, files, or directories
 ### 6. Tools: Software used by attackers to accomplish their mission. This includes utilities designed to create malicious documents for spear phishing, backdoors used to establish C2 or password crackers, or other host-based utilities
 
-#### 7. .Tactics, Techniques and Procedures (TTPs): How the adversary goes about accomplishing their mission, from reconnaissance all the way through data exfiltration and at every step in between.
+#### 7. Tactics, Techniques and Procedures (TTPs): How the adversary goes about accomplishing their mission, from reconnaissance all the way through data exfiltration and at every step in between.
 
 
    
