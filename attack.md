@@ -53,4 +53,8 @@ Threat hunting is the practice of proactively searching for cyber threats that a
 
 3. mobile - The Matrices cover techniques involving device access and network-based effects that can be used by adversaries without device access. The Matrix contains information for the following platforms: Android, iOS.
 
+# tactics
+
+![image](https://github.com/Riyatomar14/CyberSecurityCareer/assets/143107173/fa1bb677-c47e-4c8d-b38b-36fd6bc56f6c)
+
 
