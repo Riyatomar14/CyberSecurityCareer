@@ -49,8 +49,8 @@ Threat hunting is the practice of proactively searching for cyber threats that a
 
 1. enterprise - The Matrix contains information for the following platforms: Windows, macOS, Linux, PRE, Azure AD, Office 365, Google Workspace, SaaS, IaaS, Network, Containers.
 
-2. ICS ( Industrial Control Systems) - 
+2. ICS ( Industrial Control Systems) - ![image](https://github.com/Riyatomar14/CyberSecurityCareer/assets/143107173/069aac40-1381-4f0a-b89a-62ed5cfc9bce)
 
 3. mobile - The Matrices cover techniques involving device access and network-based effects that can be used by adversaries without device access. The Matrix contains information for the following platforms: Android, iOS.
 
-   
+
