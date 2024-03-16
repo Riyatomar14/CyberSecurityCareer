@@ -12,8 +12,24 @@ possible approch act like attacker or defender
 
 ![image](https://github.com/Riyatomar14/CyberSecurityCareer/assets/143107173/83acd2bb-27f5-4d96-89dc-0188c1b551f8)
 
+# pyramid of pain
 
+![image](https://github.com/Riyatomar14/CyberSecurityCareer/assets/143107173/562c569e-c2a6-4f5a-9081-9b22c566019d)
 
+As outlined by David J Bianco himself, the Pyramid indicators are-
+
+### 1. Hash values: SHA1, MD5, or other similar hashes that correspond to specific suspicious or malicious files. Hash values are often used to provide unique references to specific samples of malware or to files involved in an intrusion.
+
+### 2. IP addresses: As the name suggests, but also includes netblocks.
+
+### 3. Domain names: A domain name itself, or sub domains
+
+### 4. Network Artifacts: Adversaries’ network activities that are observable. Typical examples include URI patterns, C2 information embedded in network protocols, distinctive HTTP User-Agent, or SMTP Mailer values, etc.
+
+### 5. Host Artifacts: Observables caused by adversary activities on one or more of your hosts, such as registry keys or values known to be created by specific pieces of malware, files, or directories
+### 6. Tools: Software used by attackers to accomplish their mission. This includes utilities designed to create malicious documents for spear phishing, backdoors used to establish C2 or password crackers, or other host-based utilities
+
+#### 7. .Tactics, Techniques and Procedures (TTPs): How the adversary goes about accomplishing their mission, from reconnaissance all the way through data exfiltration and at every step in between.
 
 
    
