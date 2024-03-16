@@ -57,4 +57,13 @@ Threat hunting is the practice of proactively searching for cyber threats that a
 
 ![image](https://github.com/Riyatomar14/CyberSecurityCareer/assets/143107173/fa1bb677-c47e-4c8d-b38b-36fd6bc56f6c)
 
+# use cases 
+
+![image](https://github.com/Riyatomar14/CyberSecurityCareer/assets/143107173/1f384667-a8d8-49fe-9828-8d5fdde46399)
+
+# red and blue team
+
+
+
+
 
