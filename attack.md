@@ -67,6 +67,8 @@ Threat hunting is the practice of proactively searching for cyber threats that a
 
 # mitre attack- it have 14 tactics and each having some technology and under tecxhnology it have some procedures.
 
+![image](https://github.com/Riyatomar14/CyberSecurityCareer/assets/143107173/378dbb92-202e-4954-a822-5fef404b9382)
+
 
 
 
